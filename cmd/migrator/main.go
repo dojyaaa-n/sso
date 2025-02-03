@@ -32,7 +32,7 @@ func main() {
 
 	if err := m.Up(); err != nil {
 		if errors.Is(err, migrate.ErrNoChange) {
-			fmt.Println("No change")
+			fmt.Println("No migrations change")
 
 			return
 		}
