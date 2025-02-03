@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../protos/.idea/protos.iml" filepath="$PROJECT_DIR$/../protos/.idea/protos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sso.iml" filepath="$PROJECT_DIR$/.idea/sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../url-shortener/.idea/url-shortener.iml" filepath="$PROJECT_DIR$/../url-shortener/.idea/url-shortener.iml" />
+    </modules>
+  </component>
+</project>
